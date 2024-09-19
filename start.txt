@@ -1,0 +1,1 @@
+g++ .\errors.hpp .\main.cpp .\menu.cpp .\menu.hpp .\templates.hpp .\unit_tests.cpp -o main
